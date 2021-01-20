@@ -1,0 +1,6 @@
+require 'Minitest/autorun'
+require 'Minitest/pride'
+require 'pry'
+require './lib/item'
+require './lib/vendor'
+require './lib/market'
